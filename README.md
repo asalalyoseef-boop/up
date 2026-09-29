@@ -77,7 +77,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 ![](/assets/dyqr.jpg)
 
-## 在线阅读
+## 在线阅读Which project would you like to start, or do you have a category preference (CLI, GUI, web, data, games, automation)?
 
 - 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
 - GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
